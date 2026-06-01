@@ -1,4 +1,4 @@
-# ShopShield-AI
+<img src="short_info.png" alt="Image">
 
 # 🛡️ ShopShield AI
 
