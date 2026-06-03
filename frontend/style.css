@@ -1,1 +1,17 @@
+body{
+    background:#f8f9fa;
+}
+
+.hero{
+    min-height:70vh;
+}
+
+.card{
+    border:none;
+    border-radius:15px;
+}
+
+.btn{
+    border-radius:10px;
+}
 
